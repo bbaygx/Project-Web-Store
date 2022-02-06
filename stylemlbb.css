@@ -1,0 +1,41 @@
+#contact {
+    border-radius: 10px;
+}
+
+.bayu {
+    width: 50%;
+    border-radius: 10px;
+    margin-inline-end: 150px;
+    margin-right: 3rem;
+}
+
+.fontuser {
+    font-style: italic;
+    font-size: small;
+}
+
+.bagianmasukanid {
+    margin-left: 10rem;
+}
+
+#text {
+    width: 40%;
+    border-radius: 10px;
+    margin-left: 2rem;
+    font-style: italic;
+}
+
+.text1 {
+    margin-top: 2rem;
+}
+
+.container .nav-item {
+    font-size: 13px;
+    margin-right: 20px;
+}
+
+.Header .d-flex {
+    size: 50px;
+}
+
+@media screen and (max-width:576px) {}
